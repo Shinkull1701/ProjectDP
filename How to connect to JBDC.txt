@@ -1,0 +1,11 @@
+Dowload mysql connector j 8.1.0 or more
+
+Connect "Referenced Libraries" to mysql-connector-j-8.1.0\mysql-connector-j-8.1.0\mysql-connector-j-8.1.0.jar folder.
+
+Dowload MySql. Sign in and create a database named "giaodich"with the command "CREATE DATABASE giaodich;" then Query.
+
+Open the Giaodich.sql at the Project\src folder.
+
+Open VsCode or another then enter your "url","username" and "password" in Main.java and MySQLConnection.java.
+
+Sorry about bad English. thank you for visit my Project
